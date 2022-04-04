@@ -8,8 +8,8 @@
 .tooltipAbdel .tooltiptext {
   visibility: hidden;
   width: 140px;
-  background-color: black;
-  color: #fff;
+  background-color: #fafafa;
+  color: black;
   text-align: center;
   border-radius: 6px;
   padding: 5px 0;
