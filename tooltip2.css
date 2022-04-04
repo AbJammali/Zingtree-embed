@@ -1,0 +1,26 @@
+<style>
+.tooltipAbdel {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltipAbdel .tooltiptext {
+  visibility: hidden;
+  width: 140px;
+  background-color: #fafafa;
+  color: black;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+    margin-left: 20px;
+  z-index: 1;
+}
+
+.tooltipAbdel:hover .tooltiptext {
+  visibility: visible;
+}
+</style>
