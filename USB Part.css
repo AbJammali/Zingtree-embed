@@ -1,4 +1,22 @@
-#part {
+.how-what
+{
+    float: left;
+    position: relative;
+    padding-left: 1%;
+    padding-right: 1%;
+    display: inline-block;
+    clear: left;
+    width: 420px;
+    text-align: left;
+}
+.info-how
+{
+    position: relative;
+    display: inline-block;
+    clear: left;
+    width: auto;
+}
+.form-how {
     display: block;
     height: 38px;
     padding: 6px 12px;
